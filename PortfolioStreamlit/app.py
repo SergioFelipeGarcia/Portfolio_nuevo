@@ -23,7 +23,7 @@ if selection == "Perfil":
     with col1:
         # Reemplaza "tu_foto.png" con la ruta a tu foto
         try:
-            st.image("docs/FotoPerfilSergio.png", width=200)
+            st.image("PortfolioStreamlit/docs/FotoPerfilSergio.png", width=150)
         except:
             st.info("Reemplaza 'docs/FotoPerfilSergio.png' con la ruta de tu imagen de perfil.")
         
@@ -299,4 +299,5 @@ elif selection == "Formación Académica":
                 <li>Resolución problemas</li>
             </ul>
         </div>
+
         """, unsafe_allow_html=True)
