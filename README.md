@@ -1,6 +1,6 @@
-¡
 
-### Contenido para `README.md`
+
+
 
 ````markdown
 # 👨‍💻 Portafolio Profesional
@@ -61,29 +61,6 @@ Si deseas ver el portafolio en tu máquina, sigue estos sencillos pasos:
     ```
     La aplicación se abrirá automáticamente en tu navegador por defecto.
 
-## 📂 Estructura del Proyecto
-
-````
-
-.
-├── docs/
-│   ├── Certificacion\_AZ-204.png
-│   ├── Certificacion\_PL\_900.png
-│   ├── FotoPerfilSergio.png
-│   ├── Pagina\_artes\_marciales2.png
-│   ├── Power\_Apps\_Certificacion.png
-│   ├── SergioFG\_CV.pdf
-│   ├── servicio\_medico.png
-│   ├── TFG\_presentacion.png
-│   ├── tienda.png
-│   └── traductor.png
-├── app.py
-├── requirements.txt
-└── README.md
-
-```
-
----
 
 ## 📫 Contacto
 
