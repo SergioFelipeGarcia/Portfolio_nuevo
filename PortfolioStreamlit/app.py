@@ -159,7 +159,7 @@ elif selection == "Proyectos":
         
     with col3:
          description_whatsapp = f"Aplicación de gestión de plantillas de WhatsApp desarrollada con **{create_tag('Python', '#28a745')}** y **{create_tag('Streamlit', '#6f42c1')}.** Este proyecto facilita la creación, edición y envío de mensajes predefinidos a través de la API de WhatsApp. Es ideal para automatizar comunicaciones y mejorar la eficiencia en campañas de marketing o atención al cliente."
-        create_project_card("📱 Gestor de Plantillas de WhatsApp", description_whatsapp, "https://github.com/sergiofgarcia/gestor-whatsapp-templates", "docs/whatsapp_templates.png", "https://plantillawhassapp.streamlit.app/")
+        create_project_card("📱 Gestor de Plantillas de WhatsApp", description_whatsapp, "https://github.com/sergiofgarcia/gestor-whatsapp-templates", "PortfolioStreamlit/docs/whatsapp_templates.png", "https://plantillawhassapp.streamlit.app/")
     # Segunda fila de proyectos (2 columnas)
     col4, col5 = st.columns(2)
 
@@ -304,5 +304,6 @@ elif selection == "Formación Académica":
         </div>
 
         """, unsafe_allow_html=True)
+
 
 
