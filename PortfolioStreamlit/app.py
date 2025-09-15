@@ -165,7 +165,7 @@ elif selection == "Proyectos":
 
     with col4:
         description_medico = f"Este proyecto es una aplicación **full-stack** que demuestra mi capacidad para construir soluciones robustas con lógica de negocio. Utilicé {create_tag('Java', '#dc3545')} (Servlets) para el back-end, {create_tag('MySQL', '#6f42c1')} para la gestión de datos, y {create_tag('HTML', '#28a745')}, {create_tag('CSS', '#ffc107')} y {create_tag('JavaScript', '#6c757d')} para la interfaz de usuario."
-        create_project_card("⚕️ Servicio Médico Telefónico", description_medico, "https://github.com/SergioFelipeGarcia/Servicio-m-dico-telef-nico", "PortfolioStreamlit/docs/servicio_medico.png")
+        create_project_card("⚕️ Servicio Médico Telefónico", description_medico, "https://github.com/SergioFelipeGarcia/Servicio-m-dico-telef-nico", "PortfolioStreamlit/docs/Servicio_Medico.png")
 
     with col5:
         description_tfg = f"Aplicación de citas médicas desarrollada como TFG, utilizando un enfoque **low-code** con **Microsoft Power Platform**. El proyecto integra {create_tag('Power Apps', '#007bff')} (UI), {create_tag('Dataverse', '#6f42c1')} (BBDD) y {create_tag('Power Automate', '#dc3545')} (automatización). Esta práctica me permitió afianzar mis habilidades en el diseño de bases de datos y la integración de sistemas."
@@ -303,4 +303,5 @@ elif selection == "Formación Académica":
             </ul>
         </div>
         """, unsafe_allow_html=True)
+
 
